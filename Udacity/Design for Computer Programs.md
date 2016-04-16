@@ -13,7 +13,7 @@ list.count(obj)
 
 - Deal
 
-    shuffle in random
+  shuffle in random
 
 ```python
 random.shuffle (lst)
@@ -22,7 +22,7 @@ random.shuffle (lst)
 
 - Zip & Unzip
 
-    zip() is defined; unzip is not defined but can be defined as:
+  zip() is defined; unzip is not defined but can be defined as:
 ```python
 def upzip(group): return zip(*group)
 ```
