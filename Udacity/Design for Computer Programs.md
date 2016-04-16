@@ -19,3 +19,10 @@ list.count(obj)
 random.shuffle (lst)
 # shuffle() 方法将序列的所有元素随机排序。
 ```
+
+- Zip & Unzip
+
+    zip() is defined; unzip is not defined but can be defined as:
+```python
+def upzip(group): return zip(*group)
+```
