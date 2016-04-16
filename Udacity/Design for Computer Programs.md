@@ -13,7 +13,7 @@ list.count(obj)
 
 - Deal
 
-shuffle in random
+    shuffle in random
 
 ```python
 random.shuffle (lst)
