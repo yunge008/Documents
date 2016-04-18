@@ -5,11 +5,12 @@
 ```**kwargs``` 允许你将不定长度的键值对, 作为参数传递给一个函数.
 
 ## 2.生成器 Generators
-- 可迭代对象 （Iterable)
+- 可迭代对象 (Iterable)
 - 迭代器 (Iterator)
 - 迭代 (Iteration)
 - 生成器 (Generators)
 
+  
   ```iter``` 将可迭代对象返回迭代器：
 
 ```python
