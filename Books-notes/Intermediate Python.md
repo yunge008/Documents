@@ -10,3 +10,11 @@
 - 迭代 (Iteration)
 - 生成器 (Generators)
 
+  ```iter``` 将可迭代对象返回迭代器：
+
+```python
+  my_string = "Yasoob"
+  my_iter = iter(my_string)
+  next(my_iter)
+  # Output: 'Y'
+```
