@@ -18,3 +18,5 @@
   next(my_iter)
   # Output: 'Y'
 ```
+
+## 3. ```Map``` 和 ```Filter```
