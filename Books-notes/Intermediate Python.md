@@ -21,3 +21,8 @@
 ```
 
 ## 3. ```Map``` 和 ```Filter```
+
+```python
+map(function_to_apply, list_of_inputs)
+filter(lambda x: x < 0, number_list)
+```
