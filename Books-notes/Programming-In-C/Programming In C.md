@@ -22,18 +22,18 @@ Book Notes of Programming in C
   * constant: constant integer, constant string, constant expressions
   
 * Int
-  * octal: 050, %o, %#o (display with the first 0)
-  * hexadecimal: 0x50. %x, %#x (display with the first 0x), %X, %#X (Upper case displayed)
+  * octal: ```050, %o, %#o``` (display with the first 0)
+  * hexadecimal: ```0x50. %x, %#x``` (display with the first 0x), ```%X, %#X``` (Upper case displayed)
 
 * Float
   * can omit one of the part before or after the decimal point
-  * Scientific notation: 1.7e4, 2.25E-3
-  * %f, %e, %g (auto select: if exponent < -4 or > 5, %e, %f)
-  * Hexadecimal floating> 0x0.3p10 (or 0x0.3P10) represents 3/16 x 2^10 = 192
+  * Scientific notation: ```1.7e4, 2.25E-3```
+  * %f, %e, %g (auto select: ```if exponent < -4 or > 5, %e, %f```)
+  * Hexadecimal floating: ```0x0.3p10 (or 0x0.3P10) represents 3/16 x 2^10 = 192```
 
 * Char
-  * %c
-  * '\n'
+  * ```%c```
+  * ```'\n'```
 
 * _Bool
   * 
