@@ -28,7 +28,7 @@ Book Notes of Programming in C
 * Float
   * can omit one of the part before or after the decimal point
   * Scientific notation: ```1.7e4, 2.25E-3```
-  * %f, %e, %g (auto select: ```if exponent < -4 or > 5, %e, %f```)
+  * ```%f, %e, %g``` (auto select: ```if exponent < -4 or > 5, %e, %f```)
   * Hexadecimal floating: ```0x0.3p10 (or 0x0.3P10) represents 3/16 x 2^10 = 192```
 
 * Char
