@@ -62,3 +62,14 @@ Book Notes of Programming in C
   * ```for(int i = 0; i < 10; i++)```
   * ```for(int i = 1; i < 10; ++i)```
 
+* While Loop
+* Do While Loop
+* ```break;``` and ```continute;```
+
+## Chapter 6. Making Decisions
+
+* The ```if``` statement
+* The ```switch``` statement
+* The condintional operator
+
+
