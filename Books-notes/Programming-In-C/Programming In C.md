@@ -56,11 +56,9 @@ Book Notes of Programming in C
 | double                 | 12.34,3.1e-5,0x.1p3            | %f,%e,%g,%a    |
 | long double            | 12.341,3.1e-5l                 | %Lf,$Le,%Lg    |
   
+## Chapter 5. Programming Looping
 
-
-
-  
-  
-  
-
+* For statement
+  * ```for(int i = 0; i < 10; i++)```
+  * ```for(int i = 1; i < 10; ++i)```
 
